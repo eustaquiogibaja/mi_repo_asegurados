@@ -1,0 +1,6 @@
+<INICIO>
+1. obtener resultado de data_transform
+2. insertarlo en un archivo excel = data_transformada
+3. exportarlo a la ruta: C:\Users\gibajae\workspace\
+<FIN>
+
