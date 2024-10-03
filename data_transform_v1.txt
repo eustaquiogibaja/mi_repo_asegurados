@@ -1,0 +1,8 @@
+<INICIO>
+1. import pandas as pd
+2. leer archivo excel
+3. realizar trasformación
+   - ordenamiento por campo NOMBRE_1
+   - Reemplace espacios en blanco  con el valor = '0'
+<FIN>
+
